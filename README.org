@@ -1,0 +1,12 @@
+
+* Overview
+
+Template of a C project, including basic Makefile and directory structure.
+
+* Makefile targets
+
+- make comp
+- make run
+- make help
+- make clean
+- make all
